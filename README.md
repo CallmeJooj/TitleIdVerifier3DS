@@ -10,3 +10,5 @@ It is very simple:
 - Execute the file
 - Done!
 - In some time it'll scan the IDs in real time and show them to you. It'll also leave a txt file with the links and name of the titles
+
+The executable provided was made using PyInstaller. Any issues with it try running the .py file directly.
